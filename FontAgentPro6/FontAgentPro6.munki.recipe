@@ -5,7 +5,7 @@
   <key>Description</key>
   <string>Downloads the latest FontAgent Pro 6 installer and imports the .pkg into Munki. Also includes Smasher.</string>
   <key>Identifier</key>
-  <string>com.github.zachtarr.FontAgentPro6.munki</string>
+  <string>com.github.zachtarr.munki.FontAgentPro6</string>
   <key>Input</key>
   <dict>
     <key>NAME</key>
