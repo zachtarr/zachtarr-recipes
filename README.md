@@ -1,4 +1,4 @@
 # zachtarr-recipes
-A few AutoPkg Recipes
+A few AutoPkg Recipes.
 
-These are a work in progress.
+My first attempt at this. I hope they work correctly.
