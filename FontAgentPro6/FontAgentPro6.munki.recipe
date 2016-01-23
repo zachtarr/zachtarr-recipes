@@ -37,6 +37,12 @@
           <string>i386</string>
           <string>x86_64</string>
         </array>
+      <key>postuninstall_script</key>
+      <string>#!/bin/bash
+
+/Applications/Smasher/Uninstall.app/Contents/Resources/Uninstall.script
+
+exit 0</string>
     </dict>
   </dict>
   <key>MinimumVersion</key>
