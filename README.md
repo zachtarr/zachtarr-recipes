@@ -1,4 +1,7 @@
 # zachtarr-recipes
+
+These recipes have moved to https://github.com/autopkg/zachtarr-recipes.git
+
 My first attempt at creating some AutoPkg recipes.
 
 The Plain Clip recipe was created using [Recipe Robot](http://https://github.com/homebysix/recipe-robot)
